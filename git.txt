@@ -1,0 +1,6 @@
+https://github.com/Lorranne038/ICS.git
+Lorranne038
+sarahlorrannealvescarneiro8@gmail.com
+
+git config --global user.name "Lorranne038"
+git config --global user.email "sarahlorrannealvescarneiro8"
