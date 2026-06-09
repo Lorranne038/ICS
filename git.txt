@@ -4,3 +4,5 @@ sarahlorrannealvescarneiro8@gmail.com
 
 git config --global user.name "Lorranne038"
 git config --global user.email "sarahlorrannealvescarneiro8"
+
+git remote add origin https://github.com/Lorranne038/ICS.git
